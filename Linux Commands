@@ -25,3 +25,8 @@ free - show RAM usage
 
 ## Networking
 ping - check network connectivity
+
+##Other Useful commands
+echo - print text to terminal
+clear - clear terminal screen
+history - show commands history
