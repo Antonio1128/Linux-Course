@@ -1,0 +1,27 @@
+# Linux Commands I've used
+This file contains Linux commands I practiced during the course.
+
+## File & Directory Management
+mkdir - create directory
+ls - list files and directories
+cd - change directory
+pwd - show current directory
+cp - copy files or directories
+mv - move or rename files
+rm - remove files
+touch - create empty file
+
+## File & Text Viewing / Editing
+cat - display file content
+nano - text editor
+grep - search text in files
+
+## Permissions
+chmod - change file permissions
+
+## System Information
+df - show disk space usage
+free - show RAM usage
+
+## Networking
+ping - check network connectivity
