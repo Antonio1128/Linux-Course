@@ -16,3 +16,22 @@ Example:
 
 ./organize.sh ~/Downloads
 
+### Linux Cleanup Tool
+
+A Bash tool that cleans temporary files and cache from a Linux system.
+
+Features
+
+* cleans /tmp
+* cleans user cache
+* empties trash
+* dry run mode
+
+Usage
+
+./cleanup_tool.sh
+
+Dry run:
+/cleanup_tool.sh -- dry-run
+./cleanup.sh --dry-run
+```
