@@ -14,3 +14,13 @@ git_repinfo.sh
 log_analyzer.sh  
 project_setup.sh  
 website_monitor.sh
+
+## Mini Projects
+
+cleanup_tool.sh
+file_organizer_tool.sh
+
+### How to run?
+
+ chmod +x script_name.sh
+ ./script_name.sh
