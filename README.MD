@@ -23,5 +23,5 @@ file_organizer_tool.sh - Organizes files into folders by type.
 
 ### How to run?  
 
- chmod +x script_name.sh 
+ chmod +x script_name.sh     
  ./script_name.sh  
