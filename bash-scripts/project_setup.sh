@@ -4,4 +4,5 @@ cd project
 mkdir src
 mkdir logs 
 mkdir docs
+touch readme.md 
 
